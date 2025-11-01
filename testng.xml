@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	 
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="test_one.First_Test"/>
+      <class name="test_one.Second_Test"/>
+      <class name="test_one.Third_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
